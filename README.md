@@ -10,5 +10,4 @@
 - connect remote repository
   `git remote add origin https://github.com/Makuzaza/React23S_testing.git`
 - try not to make any changes
-fff
-- dhfjfksks
+- changes
